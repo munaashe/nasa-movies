@@ -1,0 +1,13 @@
+***Instructions***
+
+1. Download or clone the repo
+
+2. Run the command "yarn install"
+
+3. Run the Command "yarn start"
+
+4. If the browser page does not automatically open, go to the url "localhost:3000"
+
+
+***ToDo***
+1. Create a skeletop component for loading
