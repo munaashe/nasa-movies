@@ -15,7 +15,7 @@ const Movie = Loader(React.lazy(() => import('./pages/movie')));
 
 function App() {
   return (
-    <div className="App">
+    <div style={{backgroundColor: '#040404'}}>
       <Routes>
         <Route path='/' element={<Landing />} />
         <Route path='/movies/:id' element={<Movie />} />
